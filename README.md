@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there, I’m Akshay Shelar
+# 👋 Hi there, I’m Shaikh Nadeem
 
 #### I'm [Shaikh nadeem](#)!, a Full Stack Web Developer on a mission to solve real-life problems through code. I thrive on building projects from scratch, crafting unique solutions that make a positive impact. Let's connect and build something amazing together!
 
